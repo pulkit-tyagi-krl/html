@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Profile</title>
+</head>
+<body>
+
+    <!-- Heading -->
+    <h1>My Profile</h1>
+
+    <!-- Profile Image Placeholder -->
+    <img src="placeholder.jpg" alt="Profile Image" width="150">
+
+    <!-- Profile Information -->
+    <p>
+        <b>Name:</b> Rahul Sharma<br>
+        <b>Course:</b> B.Tech (CSE)<br>
+        <b>College:</b> ABC Engineering College<br>
+        <b>City:</b> Ghaziabad
+    </p>
+
+    <!-- Horizontal Line -->
+    <hr>
+
+    <!-- About Me Section -->
+    <h2>About Me</h2>
+    <p>
+        I am a <i>student</i> of Computer Science.<br>
+        I am interested in <u>web development</u>, 
+        <mark>artificial intelligence</mark> and data science.
+    </p>
+
+</body>
+</html>
